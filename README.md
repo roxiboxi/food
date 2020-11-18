@@ -25,13 +25,13 @@ En logga till restaurangen gjord i Photoshop (eller Gimp, Krita, mfl).  Loggan s
 	varje lektionsmoment. Ta gärna skärmavbilder för att beskriva arbetets process.
 						
 ## Tidsplanering
-47
-Presentation av uppgiften / Om dokumentering / Start planering
-48
-Fortsatt arbete, genomgång bland annat av valideringsverktyg
-49
-Fortsatt arbete, genomgång av sånt som kommit upp under arbetet
-50
-Sista lektionen att arbeta med projektet
+### 47
+	Presentation av uppgiften / Om dokumentering / Start planering
+### 48
+	Fortsatt arbete, genomgång bland annat av valideringsverktyg
+### 49
+	Fortsatt arbete, genomgång av sånt som kommit upp under arbetet
+### 50
+	Sista lektionen att arbeta med projektet
 
 Söndag 13 december: Deadline inlämning
