@@ -1,1 +1,28 @@
 /* Denna fil skall innehålla din CSS kod */
+.stylesheet{
+
+    
+}
+
+body{
+
+    background-color: salmon;
+}
+
+h1 {
+
+    color: white;
+    text-align: center;
+    
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+
+}
+
+img {
+
+  align-items: center; 
+}
